@@ -49,4 +49,4 @@ I'm not actually saying your shitty site should look like this. What I'm saying 
 
 ## Epilogue
 
-From the philosophies expressed (poorly) above, txti(http://txti.es/) was created. You should try it today to make your own motherfucking websites.
+From the philosophies expressed (poorly) above, [txti](http://txti.es/) was created. You should try it today to make your own motherfucking websites.
